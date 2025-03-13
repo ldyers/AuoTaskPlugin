@@ -1,0 +1,20 @@
+[
+    {
+        "time": "11:49",
+        "script": "早报",
+        "target": "ou_03b8e0ce0b3c6c774e97dc6ceb46435f",
+        "type": "person",
+        "name": "早报",
+        "created_at": "2025-03-07 11:48:02",
+        "last_triggered_at": "2025-03-12T11:49:05.157540+08:00"
+    },
+    {
+        "time": "11:36",
+        "script": "email_attachment_sender",
+        "target": "ou_03b8e0ce0b3c6c774e97dc6ceb46435f",
+        "type": "person",
+        "name": "email_attachment_sender",
+        "created_at": "2025-03-11 10:39:00",
+        "last_triggered_at": "2025-03-12T11:36:03.839867+08:00"
+    }
+]
