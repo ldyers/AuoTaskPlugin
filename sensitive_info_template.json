@@ -1,0 +1,9 @@
+{
+    "sensitive_data": {
+        "email": {
+            "sender": "00000000@qq.com",
+            "password": "*********",
+            "receiver": "00000000@gmail.com"
+        }
+    }
+}
